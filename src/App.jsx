@@ -24,7 +24,7 @@ const App = () => {
         style={{
           fontSize: "2em",
           fontWeight: "bold",
-          color: "#FFFFFF",
+          color: "#000000",
           display: "inline-block",
         }}
       />
